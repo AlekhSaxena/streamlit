@@ -1,0 +1,7 @@
+,Type,Sentence,location,sentence
+0,scripts,Open the first script for me ,./scripts/1.html,Open the first script for me 
+1,scripts,I want to try the second script,./scripts/2.html,I want to try the second script
+2,images,this is the first image,./Images/1.html,this is the first image
+3,images,how about 2nd one,./Images/2.html,how about 2nd one
+4,email,now open 1st email,./Email/1.html,now open 1st email
+5,surveys,this is the survey,./Surveys/1.html,this is the survey
